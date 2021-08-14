@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, my name is Burmau. I am a software engineer and a Computer Science Major in Uni.
+This is my journey into the land of ruby and in this project(Phone book) i created a journal that does the following:
 
-Things you may want to cover:
+* I used the Devise gem to create user registration.
 
-* Ruby version
+* I used bootstrap to decorate the frontend of the web App
 
-* System dependencies
+* I used Sqlite as the database to store the users entries into the phone book app
 
-* Configuration
+# FUNCTIONALIES 
 
-* Database creation
+*   The ability of the user to sign in, sign up and out.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*   The app adheres to the CRUD functions and the user can perform those functions on their pages
